@@ -326,6 +326,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    background_image_size: contain
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
